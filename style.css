@@ -1,0 +1,23 @@
+h1{
+    font-size: 1.7em;
+    text-align: center;
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+button{
+    background-color: whitesmoke;
+    font-size: large;
+}
+
+#buttons{
+    text-align: center;
+}
+
+audio{
+    display: none;
+}
+
